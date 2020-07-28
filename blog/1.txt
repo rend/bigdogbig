@@ -1,0 +1,22 @@
+the first friday.
+
+What are you doing?
+
+Going to make an incremental/idle game.
+
+Why are you doing it?
+
+I've always loved these kinds of games, from Cookie Clicker, Clicker Heroes, BitCity, Paperclips (https://www.decisionproblem.com/paperclips/index2.html), and I've been a programmer of sorts who's only ever worked on enterprise stuff so figured this would be a fun way to spend some time.
+
+Learning React - there's a lot to learn!
+
+
+How are you going to do it?
+
+Incrementally! I'll talk about some dev related stuff later, but for now I' 
+
+Until next time
+
+npm -i -g serve
+serve
+
