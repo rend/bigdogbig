@@ -16,10 +16,10 @@
 title: BIGDOGBIG - Blog
 email: coming@soon.com
 description: >- # this means to ignore newlines until "baseurl:"
-Blog about the development process behind an incremental game.
+  Blog to cover the development efforts towards an incremental game.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://bigdogbig.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: rend_plus_plus 
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: rend_plus_plus
 github_username:  rend
 
 # Build settings
